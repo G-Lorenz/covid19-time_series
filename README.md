@@ -1,6 +1,6 @@
 # COVID19 Time series
 
-These time series are fetched from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) using my [program](linktorepo)
+These time series are fetched from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) using my [program](https://github.com/G-Lorenz/time_series-generator)
 
 ##Datasets
 This repo hosts the time series of the states that have at least one 'Admin1' with available data.
@@ -22,7 +22,7 @@ date2
 etc.
 
 ## Bugs
-This bugs are due to my [program](linktorepo).
+This bugs are due to my [program](https://github.com/G-Lorenz/time_series-generator).
 When JHU adds a 'province', the old datas are lost.
 Countries with a space or a special character inside the name are not included. At this moment, only UK is in this situation.
 
