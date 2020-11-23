@@ -1,8 +1,8 @@
 # COVID19 Time series
 
-These time series are fetched from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) using my [program](https://github.com/G-Lorenz/time_series-generator)
+These time series are fetched from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) using my [program](https://github.com/G-Lorenz/time_series-generator).
 
-##Datasets
+## Datasets
 This repo hosts the time series of the states that have at least one 'Admin1' with available data.
 The datas are organized in two different ways:
 
