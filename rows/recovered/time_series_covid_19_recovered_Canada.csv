@@ -1,17 +1,17 @@
-Admin2,Province/State,Country/Region,11-24-2020,11-25-2020,11-26-2020
-,Alberta,Canada,35695,36582,37316
-,British Columbia,Canada,19605,19814,19998
-,Diamond Princess,Canada,0,0,0
-,Grand Princess,Canada,13,13,13
-,Manitoba,Canada,5633,5893,6177
-,New Brunswick,Canada,350,352,353
-,Newfoundland and Labrador,Canada,295,295,295
-,Northwest Territories,Canada,15,15,15
-,Nova Scotia,Canada,1075,1076,1078
-,Nunavut,Canada,2,2,5
-,Ontario,Canada,94861,96188,97645
-,Prince Edward Island,Canada,68,68,68
-,Quebec,Canada,116624,117551,118491
-,Repatriated Travellers,Canada,13,13,13
-,Saskatchewan,Canada,3919,3998,4176
-,Yukon,Canada,23,23,29
+Admin2,Province/State,Country/Region,11-24-2020,11-25-2020,11-26-2020,11-27-2020
+,Alberta,Canada,35695,36582,37316,38369
+,British Columbia,Canada,19605,19814,19998,21304
+,Diamond Princess,Canada,0,0,0,0
+,Grand Princess,Canada,13,13,13,13
+,Manitoba,Canada,5633,5893,6177,6487
+,New Brunswick,Canada,350,352,353,356
+,Newfoundland and Labrador,Canada,295,295,295,296
+,Northwest Territories,Canada,15,15,15,15
+,Nova Scotia,Canada,1075,1076,1078,1078
+,Nunavut,Canada,2,2,5,8
+,Ontario,Canada,94861,96188,97645,99074
+,Prince Edward Island,Canada,68,68,68,68
+,Quebec,Canada,116624,117551,118491,119727
+,Repatriated Travellers,Canada,13,13,13,13
+,Saskatchewan,Canada,3919,3998,4176,4384
+,Yukon,Canada,23,23,29,29
