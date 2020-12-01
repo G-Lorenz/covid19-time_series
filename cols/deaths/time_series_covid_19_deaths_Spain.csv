@@ -1,7 +1,7 @@
 Admin2,,,,,,,,,,,,,,,,,,,,
-Province/State,Andalusia,Aragon,Asturias,Baleares,C. Valenciana,Canarias,Cantabria,Castilla - La Mancha,Castilla y Leon,Catalonia,Ceuta,Unknown,Extremadura,Galicia,La Rioja,Madrid,Melilla,Murcia,Navarra,Pais Vasco
+Province/State,Andalusia,Aragon,Asturias,Baleares,C. Valenciana,Canarias,Cantabria,Castilla - La Mancha,Castilla y Leon,Catalonia,Ceuta,Extremadura,Galicia,La Rioja,Madrid,Melilla,Murcia,Navarra,Pais Vasco,Unknown
 Country/Region,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain
-05-19-2020,1358,843,303,219,1370,155,208,2900,1960,5981,4,0,504,607,352,8894,2,145,503,1470
+05-19-2020,1358,843,303,219,1370,155,208,2900,1960,5981,4,504,607,352,8894,2,145,503,1470,0
 05-20-2020,1371,843,304,221,1378,155,209,2913,1960,6021,4,504,607,353,8912,2,148,503,1480,0
 05-21-2020,1375,848,307,221,1383,155,209,2919,1960,6021,4,505,608,354,8931,2,149,506,1483,0
 05-22-2020,1377,858,307,222,1389,155,209,2929,1961,6656,4,506,609,356,8944,2,149,508,1487,0

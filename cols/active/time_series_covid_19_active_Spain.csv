@@ -1,7 +1,7 @@
 Admin2,,,,,,,,,,,,,,,,,,,,
-Province/State,Andalusia,Aragon,Asturias,Baleares,C. Valenciana,Canarias,Cantabria,Castilla - La Mancha,Castilla y Leon,Catalonia,Ceuta,Unknown,Extremadura,Galicia,La Rioja,Madrid,Melilla,Murcia,Navarra,Pais Vasco
+Province/State,Andalusia,Aragon,Asturias,Baleares,C. Valenciana,Canarias,Cantabria,Castilla - La Mancha,Castilla y Leon,Catalonia,Ceuta,Extremadura,Galicia,La Rioja,Madrid,Melilla,Murcia,Navarra,Pais Vasco,Unknown
 Country/Region,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain,Spain
-05-19-2020,11113,4677,2070,1786,9592,2139,2065,13777,16589,49844,113,-150376,2449,8451,3675,57749,119,1413,4699,11939
+05-19-2020,11113,4677,2070,1786,9592,2139,2065,13777,16589,49844,113,2449,8451,3675,57749,119,1413,4699,11939,-150376
 05-20-2020,11131,4708,2070,1797,9571,2145,2068,13826,16626,49867,115,2536,8460,3680,57948,119,1412,4633,11955,-150376
 05-21-2020,11172,4740,2067,1803,9604,2152,2070,13870,16667,49867,115,2537,8469,3679,58118,119,1421,4689,11938,-150376
 05-22-2020,11199,4760,2069,1815,9632,2157,2075,13901,16713,50380,120,2538,8475,3680,58481,119,1423,4692,11967,-150376
