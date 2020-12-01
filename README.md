@@ -3,7 +3,7 @@
 These time series are fetched from JHU's [daily reports](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports) using my [program](https://github.com/G-Lorenz/time_series-generator).
 
 ## Datasets
-This repo hosts the time series of the states that have at least one 'Admin1' with available data.
+This repo hosts the time series of the states that have at least one 'Admin1' with available data.  
 The datas are organized in two different ways:
 
 ### rows
@@ -14,16 +14,16 @@ Admin2 Province Country date1 date2 etc.
 ### cols
 Data series are organized in columns, so they are easily plotted with tools like Gnuplot, or parsed with languages like C or Python.
 
-Admin2
-Province
-Country
-date1
-date2
+Admin2  
+Province  
+Country  
+date1  
+date2  
 etc.
 
 ## Bugs
-This bugs are due to my [program](https://github.com/G-Lorenz/time_series-generator).
-When JHU adds a 'province', the old datas are lost.
+This bugs are due to my [program](https://github.com/G-Lorenz/time_series-generator).  
+When JHU adds a 'province', the old datas are lost.  
 Countries with a space or a special character inside the name are not included. At this moment, only UK is in this situation.
 
 ## License
