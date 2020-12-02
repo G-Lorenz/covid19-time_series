@@ -1,17 +1,17 @@
-Admin2,Province/State,Country/Region,11-24-2020,11-25-2020,11-26-2020,11-27-2020,11-28-2020,11-29-2020,11-30-2020
-,Alberta,Canada,35695,36582,37316,38369,39381,40219,41182
-,British Columbia,Canada,19605,19814,19998,21304,21304,21304,23111
-,Diamond Princess,Canada,0,0,0,0,0,0,0
-,Grand Princess,Canada,13,13,13,13,13,13,13
-,Manitoba,Canada,5633,5893,6177,6487,6804,7010,7253
-,New Brunswick,Canada,350,352,353,356,363,369,374
-,Newfoundland and Labrador,Canada,295,295,295,296,297,297,298
-,Northwest Territories,Canada,15,15,15,15,15,15,15
-,Nova Scotia,Canada,1075,1076,1078,1078,1078,1078,1102
-,Nunavut,Canada,2,2,5,8,33,65,73
-,Ontario,Canada,94861,96188,97645,99074,100650,102012,103249
-,Prince Edward Island,Canada,68,68,68,68,68,68,68
-,Quebec,Canada,116624,117551,118491,119727,120906,122014,123177
-,Repatriated Travellers,Canada,13,13,13,13,13,13,13
-,Saskatchewan,Canada,3919,3998,4176,4384,4521,4589,4638
-,Yukon,Canada,23,23,29,29,29,29,29
+Admin2,Province/State,Country/Region,11-24-2020,11-25-2020,11-26-2020,11-27-2020,11-28-2020,11-29-2020,11-30-2020,12-01-2020
+,Alberta,Canada,35695,36582,37316,38369,39381,40219,41182,42305
+,British Columbia,Canada,19605,19814,19998,21304,21304,21304,23111,23774
+,Diamond Princess,Canada,0,0,0,0,0,0,0,0
+,Grand Princess,Canada,13,13,13,13,13,13,13,13
+,Manitoba,Canada,5633,5893,6177,6487,6804,7010,7253,7713
+,New Brunswick,Canada,350,352,353,356,363,369,374,385
+,Newfoundland and Labrador,Canada,295,295,295,296,297,297,298,302
+,Northwest Territories,Canada,15,15,15,15,15,15,15,15
+,Nova Scotia,Canada,1075,1076,1078,1078,1078,1078,1102,1108
+,Nunavut,Canada,2,2,5,8,33,65,73,89
+,Ontario,Canada,94861,96188,97645,99074,100650,102012,103249,104668
+,Prince Edward Island,Canada,68,68,68,68,68,68,68,68
+,Quebec,Canada,116624,117551,118491,119727,120906,122014,123177,124200
+,Repatriated Travellers,Canada,13,13,13,13,13,13,13,13
+,Saskatchewan,Canada,3919,3998,4176,4384,4521,4589,4638,4875
+,Yukon,Canada,23,23,29,29,29,29,29,29
